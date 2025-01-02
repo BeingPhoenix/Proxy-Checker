@@ -10,9 +10,9 @@ This script is a general-purpose proxy checker that can be used to check a list 
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/BeingPhoenix/Proxy-Checker.git
-
+```
 2. Navigate to the project directory:
 
 cd proxy-checker
